@@ -35,6 +35,7 @@
     "babel-preset-es2015": "^6.5.0",
     "webpack": "^1.13.0",
     "acorn": ">=5.7.4",
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.2",
+    "kind-of": ">=6.0.3"
   }
 }
